@@ -1,5 +1,11 @@
 # @moonshot-ai/kimi-code
 
+## 0.39.2
+
+### Patch Changes
+
+- [#3348](https://github.com/MoonshotAI/kimi-code/pull/3348) [`9d2304c`](https://github.com/MoonshotAI/kimi-code/commit/9d2304c23ca30c781b1a39540971dcaef085a500) Thanks [@liukx0205](https://github.com/liukx0205)! - Fix models and providers transiently disappearing when config.toml is saved non-atomically by an external editor while the daemon reloads it.
+
 ## 0.39.1
 
 ### Patch Changes
